@@ -2,27 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=34&duration=3000&color=F7951A&background=FFFFFF&center=true&vCenter=true&width=1000&height=200&lines=Full-Stack+Developer;Back-End+Developer;Front-End+Developer;Always+learning+new+things)](https://git.io/typing-svg)
 
-<p align="center">I am 23 years old Brazilian who loves technology. I am currently focused on full stack web development, systems, AGILE methodologies, digital transformation and learn new technologies to exploit them. Welcome!!</p>
-
-</br>
-
-```
-const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python],
-   technologies: {
-      frontEnd: {
-         js: ["React", "Redux", "lottieJS", "Auth0"],
-         css: ["Bootstrap" ]
-      },
-      backEnd: {
-         js: ["Node", "Express", "Socket.io", "Node mailer"]
-      },
-      databases: ["PostgreSQL"],
-   },
-   currentOccupation: ["THead teaching assistant at Henry"],
-};
-```
+[![Typing SVG](https://res.cloudinary.com/dafsjo7al/image/upload/v1667696734/code_o4wgok.png)](https://git.io/typing-svg)
 
 </br>
 
