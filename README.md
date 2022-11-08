@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=34&duration=3000&color=F7951A&background=FFFFFF&center=true&vCenter=true&width=1000&height=200&lines=Full-Stack+Developer;Back-End+Developer;Front-End+Developer;Always+learning+new+things)](https://git.io/typing-svg)
 
-[![Typing SVG](https://res.cloudinary.com/dafsjo7al/image/upload/v1667696734/code_o4wgok.png)](https://git.io/typing-svg)
+[![Typing SVG](https://res.cloudinary.com/dafsjo7al/image/upload/v1667873870/Screenshot_1_xiljpp.png)](https://git.io/typing-svg)
 
 </br>
 
