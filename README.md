@@ -1,9 +1,3 @@
-<style>
-    body {
-        font-family:  Verdana, sans-serif;
-    }
-</style>
-
 <h1 align="center" style="font-family:Verdana">Hi 👋, I'm Sebastian Mena</h1>
 <h3 align="center">I am a Full Stack developer with a strong backend orientation and a great passion for technology. I am currently studying systems engineering. I am excited to continue to grow as a developer and face new challenges in the world of technology!</h3>
 
