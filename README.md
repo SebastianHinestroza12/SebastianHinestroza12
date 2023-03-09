@@ -24,9 +24,9 @@
  
  <h2 align="center">Connect with Me</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/sebastian-mena12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastian-mena12" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/sebastian-mena12" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastian-mena12" height="40" width="40" /></a>
   &nbsp;
-  <a href="https://instagram.com/sebastianmh12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sebastian mena" height="30" width="40" /></a>
+  <a href="https://instagram.com/sebastianmh12" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sebastian mena" height="40" width="40" /></a>
   &nbsp;
-  <a href="mailto:spergo@outlook.com" target="blank"><img align="center" src="http://www.clintonfitch.com/wp-content/uploads/2018/01/Gmail-Icon.png" alt="Sebastian Mena" height="35" width="40" /></a>
+  <a href="mailto:menas7527@gmail.com" target="_blank"><img align="center" src="http://www.clintonfitch.com/wp-content/uploads/2018/01/Gmail-Icon.png" alt="Sebastian Mena" height="40" width="40" /></a>
 </p>
