@@ -1,6 +1,6 @@
 # 👋 Welcome To My Profile
 
-I am a Full Stack developer with a strong backend orientation and a great passion for technology. I am currently studying systems engineering. I am excited to continue to grow as a developer and face new challenges in the world of technology.!
+<h3>I am a Full Stack developer with a strong backend orientation and a great passion for technology. I am currently studying systems engineering. I am excited to continue to grow as a developer and face new challenges in the world of technology!</h3>
 
 ## 🌐 Socials:
 
