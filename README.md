@@ -1,10 +1,10 @@
-# 👋 Bienvenido a mi perfil
+# I'm a software developer. Explore and see how I turn ideas into code!
 
-<h4>Soy un apasionado desarrollador Full Stack con un enfoque sólido en el     
-<span style="color: blue; text-transform: uppercase; font-weight: bold">DESARROLLO BACKEND</span>. Actualmente estoy inmerso en mis estudios de ingeniería de sistemas, con la determinación de fusionar mi conocimiento teórico con la práctica innovadora. Mi entusiasmo por la tecnología me impulsa a buscar continuamente nuevos desafíos y oportunidades de aprendizaje. ¡Estoy emocionado por seguir creciendo como desarrollador y explorar nuevas fronteras en el fascinante mundo de la tecnología!</h4>
+<h4>I am a passionate Full Stack developer with a strong focus on     
+<span style="color: blue; text-transform: uppercase; font-weight: bold">BACKEND DEVELOPMENT</span>. I am currently immersed in my studies in systems engineering, determined to merge my theoretical knowledge with innovative practice. My enthusiasm for technology drives me to continuously seek out new challenges and learning opportunities. I am excited to continue growing as a developer and explore new frontiers in the fascinating world of technology!</h4>
 
 
-## 🌐 Red Social
+## 🌐 Social Network
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastian-mena12)
 
@@ -23,25 +23,25 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 
-## Base de Datos
+## Database
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## Herramientas y Otros
+## Tools and Others
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-# 📊 Estadísticas de GitHub
+# 📊 GitHub Statistics
 
 ![](https://github-readme-stats.vercel.app/api?username=SebastianHinestroza12&theme=monokai&hide_border=true&include_all_commits=true&count_private=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianHinestroza12&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### ✨ Frases Inspiradoras
+### ✨ Inspirational Phrases
 
 [![Frase Inspiradora de Desarrollador](https://quotes-github-readme.vercel.app/api?type=horizontal&lang=es&theme=merko)](https://forismatic.com/es/)
 
